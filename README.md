@@ -25,7 +25,7 @@ IMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/carolzha
 - Options to select multiple genres and IMDb score. Also option to select number of movies recommended. Range provided is 5 to 30 movies.
 
 ### Heroku deployment
-- The app is deployed on [Heroku](https://www.heroku.com/home) at [https://my-movie-recommender-app.herokuapp.com/](https://my-movie-recommender-app.herokuapp.com/)
+- The app is deployed on [render] at [https://abhiml2.onrender.com]([https://my-movie-recommender-app.herokuapp.com/](https://abhiml2.onrender.com))
 
 ### Further work to be done
 - The current implementation would work well for movies not in the dataset. It will also work for movies already in the dataset, but the same movie would also appear among the recommendations. Need to fix this.
